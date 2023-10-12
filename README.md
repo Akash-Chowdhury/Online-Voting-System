@@ -1,2 +1,2 @@
 # Online-Voting-System
-📚 A repository that contains all the resources of an online voting system. 😊🏆
+A  repository contains resources of a Online Voting System app
